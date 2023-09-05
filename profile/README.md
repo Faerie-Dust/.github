@@ -4,8 +4,8 @@ Hi, here lies Faerie Dust! This organization is built with a collaborative effor
 
 Some of the languages we tend to use include:
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" />
+    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
+    <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </p>
