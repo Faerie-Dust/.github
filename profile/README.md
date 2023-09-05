@@ -1,12 +1,11 @@
-## Hi there 👋
+## Welcome to our organization!
 
-<!--
+Hi, here lies Faerie Dust! This organization is built with a collaborative effort between [Frontear](https://github.com/Frontear) and [xtourmaline](https://github.com/xtourmaline). On here we share all our projects that we've done together!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Some of the languages we tend to use include:
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+</p>
