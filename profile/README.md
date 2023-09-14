@@ -9,7 +9,8 @@ In 2023 we attended a hackathon hosted by [Major League Hacking](https://mlh.io)
 - ✂️ [Rock, Paper, Scissors](https://github.com/Faerie-Dust/RPS)
 - 🧱 [Falling Walls](https://github.com/Faerie-Dust/Walls)
 - 🧺 [Catch the Block](https://github.com/Faerie-Dust/CatchTheBlock)
-
+- 
+<!--
 ### Tech Stack
 
 Our usual code editors:
@@ -40,3 +41,4 @@ Our coding languages:
     <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     <img width=50 height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 </p>
+-->
