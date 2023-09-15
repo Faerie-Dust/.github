@@ -9,7 +9,6 @@ In 2023 we attended a hackathon hosted by [Major League Hacking](https://mlh.io)
 - ✂️ [Rock, Paper, Scissors](https://github.com/Faerie-Dust/RPS)
 - 🧱 [Falling Walls](https://github.com/Faerie-Dust/Walls)
 - 🧺 [Catch the Block](https://github.com/Faerie-Dust/CatchTheBlock)
-- 
 <!--
 ### Tech Stack
 
